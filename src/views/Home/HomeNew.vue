@@ -1,12 +1,11 @@
 <template>
-  <div>底部</div>
+  新鲜好物
 </template>
 
 <script>
 export default {
-  name: 'HmFooter'
+  name: 'HomeNew'
 }
 </script>
-
-<style scoped lang='less'>
+<style lang='less' scoped>
 </style>
